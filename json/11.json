@@ -1,43 +1,5 @@
 {
-    "image": "https://dnxtdev.github.io/dnxtdev/mp4/diamondvid.mp4",
-    "attributes": [
-        {
-            "trait_type": "Lab",
-            "value": "GIA"
-        },
-        {
-            "trait_type": "Shape",
-            "value": "ROUND"
-        },
-        {
-            "trait_type": "Carat Weight",
-            "value": 1.8
-        },
-        {
-            "trait_type": "Color",
-            "value": "D"
-        },
-        {
-            "trait_type": "Clarity",
-            "value": "FL"
-        },
-        {
-            "trait_type": "Cut",
-            "value": "Very Good"
-        },
-        {
-            "trait_type": "Polish",
-            "value": "Very Good"
-        },
-        {
-            "trait_type": "Symmetry",
-            "value": "Good"
-        },
-        {
-            "trait_type": "Fluorescence",
-            "value": "Faint"
-        }
-    ],
+    "image": "https://dnxtdev.github.io/dnxtdev/mp4/11.mp4",
     "description": "Diamond Test #11",
     "name": "Diamond #11"
 }
